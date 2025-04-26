@@ -37,12 +37,3 @@ Through exploratory data analysis (EDA) and visualizations, we derive actionable
 
 # Acknowledgements
 Special thanks to [Salahuddin Ahmed Shuvo](https://www.kaggle.com/salahuddinahmedshuvo) for providing the dataset.
-
-
-# 🎯 Quick Tip:
-You can also add a beautiful thumbnail or sample visualization image at the top of your GitHub repo if you want it to look even more attractive! (Optional)
-
----
-
-Would you also like me to give you a quick **LinkedIn post caption** you can use when you upload this project? 🌟  
-It'll help you show your work in a confident, professional tone!
